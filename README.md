@@ -1,7 +1,7 @@
 # Webpack5
 
 
-![CI](https://github.com/<slowpokiss>/<environment>/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/slowpokiss/environment/actions/workflows/web.yml/badge.svg)
 
 
 [Руководство по настройке Webpack](https://webpack.js.org/guides/)
